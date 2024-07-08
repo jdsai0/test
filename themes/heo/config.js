@@ -6,7 +6,7 @@ const CONFIG = {
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   HEO_NOTICE_BAR: [
     { title: '欢迎来到我的博客', url: 'https://test-alpha-ruddy-25.vercel.app/' },
-    { title: '点击加入海角群', url: 'http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=eRTHdrAudPDQwTw9F_H9lnPKxjtOGAnr&authKey=qXnzt%2BjCil%2FPl%2B7ZTJ4HHtJfuFzF0%2BGrByjSmqRHo0L6gqqFOLwiCidSxzrrH2H2&noverify=0&group_code=617862827' }
+    { title: '点击加入海角交流群', url: 'http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=eRTHdrAudPDQwTw9F_H9lnPKxjtOGAnr&authKey=qXnzt%2BjCil%2FPl%2B7ZTJ4HHtJfuFzF0%2BGrByjSmqRHo0L6gqqFOLwiCidSxzrrH2H2&noverify=0&group_code=617862827' }
   ],
 
   // 英雄区左右侧组件颠倒位置
