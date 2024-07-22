@@ -5,7 +5,7 @@ const CONFIG = {
 
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   HEO_NOTICE_BAR: [
-    { title: '欢迎来到我的博客', url: 'https://test-alpha-ruddy-25.vercel.app/' },
+    { title: '欢迎来到我的博客', url: 'https://hj.hhzy.us.kg/' },
     { title: '点击加入海角交流群', url: 'http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=eRTHdrAudPDQwTw9F_H9lnPKxjtOGAnr&authKey=qXnzt%2BjCil%2FPl%2B7ZTJ4HHtJfuFzF0%2BGrByjSmqRHo0L6gqqFOLwiCidSxzrrH2H2&noverify=0&group_code=617862827' }
   ],
 
@@ -15,12 +15,12 @@ const CONFIG = {
   HEO_HERO_BODY_REVERSE: false,
 
   // 英雄区(首页顶部大卡)
-  HEO_HERO_TITLE_1: '分享编程',
-  HEO_HERO_TITLE_2: '与思维认知',
-  HEO_HERO_TITLE_3: 'TANGLY1024.COM',
+  HEO_HERO_TITLE_1: '海角社区',
+  HEO_HERO_TITLE_2: '免费视频',
+  HEO_HERO_TITLE_3: '免费分享',
   HEO_HERO_TITLE_4: '新版上线',
-  HEO_HERO_TITLE_5: 'NotionNext4.0 轻松定制主题',
-  HEO_HERO_TITLE_LINK: 'https://tangly1024.com',
+  HEO_HERO_TITLE_5: '海角资源免费分享',
+  HEO_HERO_TITLE_LINK: 'https://hj.hhzy.us.kg/',
 
   // 英雄区显示三个置顶分类
   HEO_HERO_CATEGORY_1: { title: '必看精选', url: '/tag/必看精选' },
